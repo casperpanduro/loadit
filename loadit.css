@@ -1,0 +1,8 @@
+body.takeitover-noscroll {
+	overflow-y: hidden;
+	height: 100%;
+	-webkit-transform: translateY(-50%) rotate(-45deg);
+	    -ms-transform: translateY(-50%) rotate(-45deg);
+	        transform: translateY(-50%) rotate(-45deg);
+}
+
